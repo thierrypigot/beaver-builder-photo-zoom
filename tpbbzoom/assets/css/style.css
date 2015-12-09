@@ -1,0 +1,6 @@
+.zoom {
+    display: inline-block;
+}
+.zoom:hover {
+    cursor: zoom-in;
+}
